@@ -26,6 +26,16 @@ const Project = () => {
                 With its user-friendly interface and seamless functionality, this application offers a comprehensive solution to the accessibility issues faced by visually impaired individuals.
               </p>
             </div>
+            <div className="portfolio-item" data-aos="fade-left" data-aos-delay="200">
+              <div className="portfolio-description" style={{textAlign: 'center'}}>
+                <h3 style={{fontWeight: 'bold', color: '#fff', marginBottom: '10px'}}>Mobile Application</h3>
+                <h2>AUDIBLE Audio Book </h2>
+                <p style={{color: '#fff'}}>
+                  The audiobook mobile application is a revolutionary tool designed specifically for visually impaired individuals who face challenges when it comes to reading books.
+                  With its user-friendly interface and seamless functionality, this application offers a comprehensive solution to the accessibility issues faced by visually impaired individuals.
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </section>
