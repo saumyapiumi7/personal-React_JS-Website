@@ -5,7 +5,7 @@ import IOS from './Images/ios.jpg'
 
 
 
-const Project = () => {
+const Portfolio = () => {
   return (
     <section className='portfoliostyle' id='section4'>
       <div className="portfolio-heading">
@@ -71,4 +71,4 @@ const Project = () => {
     </section>
   )
 }
-export default Project;
+export default Portfolio;
