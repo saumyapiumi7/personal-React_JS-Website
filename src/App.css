@@ -39,7 +39,7 @@ li {
     
 }
 .portfoliostyle {
-    max-height: 900px; /* adjust this value to your desired section length */
+    max-height: 800px; /* adjust this value to your desired section length */
     overflow: auto;
 }
 
@@ -61,7 +61,7 @@ li {
 .portfoliostyle{
   overflow: hidden;
     width: 100%;
-    height: 1600px;
+    max-height: 800px;
     display: flex;
     background-color: rgb(25, 23, 71);
     color: white;
@@ -75,8 +75,9 @@ li {
 }
 .contactstyle{
   width: 100%;
-  height: 1000px;
+  max-height: 1000px;
   display: flex;
+    overflow: auto;
   background-color: rgb(25, 23, 71);
 
 }
