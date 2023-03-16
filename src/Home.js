@@ -44,10 +44,8 @@ const Home = () => {
                     }
                 }}
             />
-            <h1 style={{position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', color: '#fff'}}>
-                Saumya Herath
-            </h1>
-
+            <h2 style={{position: 'absolute', top: '40%', left: '50%', transform: 'translate(-50%, -50%)', color: '#fff', fontStyle: 'italic'}}>Hi, I'm</h2>
+            <h1 style={{position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', color: '#fff'}}>Saumya Herath</h1>
         </div>
     );
 };
