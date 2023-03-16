@@ -21,10 +21,10 @@ const Contact = () => {
 
                     </div>
                     <div className="contact-details">
-                        <h2>Contact Details</h2>
-                        <p>Email: saumyapiumi7@gmail.com</p>
-                        <p>Phone: +94 70 311 3226</p>
-                        <p>Address: 437/1, Kohanegama, Malagane, Wariyapola, Sri Lanka</p>
+                        <h2 style={{color: 'white',fontWeight: 'bold'}}>Contact Details</h2>
+                        <p style={{color: 'white'}} >Email: saumyapiumi7@gmail.com</p>
+                        <p style={{color: 'white'}} >Phone: +94 70 311 3226</p>
+                        <p style={{color: 'white'}} >Address: 437/1, Kohanegama, Malagane, Wariyapola, Sri Lanka</p>
                     </div>
                 </div>
             </section>
