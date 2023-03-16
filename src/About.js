@@ -10,9 +10,9 @@ const About = () => {
             <img src={profPic} height='100%' />
           </div>
           <div className='about-heading'>
-            <h1 id='section2' style={{ top: '20%' }}>
+            <h1 id='section2' style={{ top: '10%' }}>
               About
-            </h1>
+            </h1 >
           </div>
           <p className='about-center'>
             Hello! I'm Saumya Herath, I am a talented and ambitious girl currently studying BSc (Hons) in Information
