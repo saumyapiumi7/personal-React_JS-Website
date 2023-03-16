@@ -11,7 +11,7 @@ const About = () => {
             <img src={profPic} height="400px" style={{marginTop: '30px'}}/>
           </div>
           <div className="about-heading">
-            <h1 id='section2'style={{marginTop: '30px'}} >About</h1>
+            <h1 id='section2'style={{marginTop: '30px'}} >About me</h1>
           </div>
           <p className="about-text">
             Hello! I'm Saumya Herath, I am a talented and ambitious girl currently studying BSc (Hons) in Information Technology at the University of Sri Jayewardenepura, Colombo. I have a deep passion for coding, and an interest in new designs, and I like to spend my time experiencing lifestyles in new cultures. Moreover, I'm looking for creative and innovative ideas to expand to improve music, travel and skills. and hopes to make a significant impact in the tech world and beyond.

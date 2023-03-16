@@ -3,7 +3,7 @@ import './App.css';
 import Home from './Home';
 import About from './About';
 import Service from './Service'
-import Portfolio from './Portfolio';
+import Project from './Project';
 import Navbar from './Navbar';
 import Contact from './Contact';
 import Footer from './Footer';
@@ -17,8 +17,7 @@ function App() {
       <Navbar />
       <Home />
       <About />
-      <Service />
-      <Portfolio />
+      <Project />
       <Contact />
       <Footer />
     </>
