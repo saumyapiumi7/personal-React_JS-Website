@@ -5,7 +5,9 @@ const Project = () => {
       <section className='portfoliostyle' id='section4'>
         <div className="portfolio-heading">
           <h1 style={{marginTop: '30px'}}>Projects</h1>
+          <p style={{textAlign: 'center', fontFamily: 'Times New Roman', color: '#fff'}}>
 
+          </p>
           <div
               className="portfolio-item"
               data-aos="fade-left"
