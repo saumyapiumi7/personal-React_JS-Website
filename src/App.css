@@ -39,6 +39,16 @@ li {
     background-color: rgb(25, 23, 71);
     
 }
+/* styles for mobile devices */
+@media only screen and (max-width: 600px) {
+    /* code for mobile devices goes here */
+}
+
+/* styles for larger screens */
+@media only screen and (min-width: 601px) {
+    /* code for larger screens goes here */
+}
+
 .portfoliostyle {
     max-height: 750px; /* adjust this value to your desired section length */
     overflow: auto;
