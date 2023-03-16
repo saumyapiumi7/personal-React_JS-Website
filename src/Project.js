@@ -27,8 +27,8 @@ const Project = () => {
           </div>
           <div
               className="portfolio-item"
-              data-aos="fade-right"
-              data-aos-delay="300"
+              data-aos="fade-left"
+              data-aos-delay="200"
           >
             <div className="portfolio-description" style={{textAlign: 'center'}}>
               <h3 style={{fontWeight: 'bold', color: '#fff', marginBottom: '10px'}}>Mobile Application</h3>
