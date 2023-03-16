@@ -5,11 +5,11 @@ import IOS from './Images/ios.jpg'
 
 
 
-const Portfolio = () => {
+const Project = () => {
   return (
     <section className='portfoliostyle' id='section4'>
       <div className="portfolio-heading">
-        <h1>Portfolio</h1>
+        <h1 style={{marginTop: '30px'}}>Projects</h1>
         <div
           className="portfolio-item"
           data-aos="fade-left"
@@ -71,4 +71,4 @@ const Portfolio = () => {
     </section>
   )
 }
-export default Portfolio;
+export default Project;
