@@ -13,7 +13,7 @@ const About = () => {
           <div className="about-heading">
             <h1 id='section2'style={{marginTop: '25px'}} >About me</h1>
           </div>
-          <p className="about-text">
+          <p className="about-text"style={{marginTop: '40px'}}>
             Hello! I'm Saumya Herath, I am a talented and ambitious girl currently studying BSc (Hons) in Information Technology at the University of Sri Jayewardenepura, Colombo. I have a deep passion for coding, and an interest in new designs, and I like to spend my time experiencing lifestyles in new cultures. Moreover, I'm looking for creative and innovative ideas to expand to improve music, travel and skills. and hopes to make a significant impact in the tech world and beyond.
           </p>
           <br />
