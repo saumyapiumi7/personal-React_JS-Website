@@ -59,11 +59,15 @@ li {
     width: 100%;
     height: 1600px;
     display: flex;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     background-color: rgb(25, 23, 71);
+    color: white;
+    padding-left: 1cm;
 
+}
+.portfolio-heading {
+    color: white;
+    text-align: center;
+    margin-left: 1cm;
 }
 .contactstyle{
   width: 100%;
