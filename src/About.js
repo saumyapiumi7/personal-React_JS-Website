@@ -8,7 +8,7 @@ const About = () => {
       <div className='aboutstyle' id="section2">
         <div className="container" data-aos="fade-right">
           <div className="profpic">
-            <img src={profPic} height="400px" />
+            <img src={profPic} height="300px" />
           </div>
           <div className="about-heading">
             <h1 id='section2'>About</h1>
