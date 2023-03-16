@@ -38,6 +38,10 @@ li {
     background-color: rgb(25, 23, 71);
     
 }
+.portfoliostyle {
+    max-height: 600px; /* adjust this value to your desired section length */
+    overflow: auto;
+}
 
 .aboutstyle{
     width: 100%;
