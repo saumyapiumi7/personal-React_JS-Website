@@ -3,10 +3,9 @@ import React from 'react';
 const Project = () => {
   return (
       <section className='portfoliostyle' id='section4'>
-        <div className="portfolio-heading">
-          <h1 style={{marginTop: '40px', textAlign: 'center'}}>Projects</h1>
-          <p style={{textAlign: 'center', fontFamily: 'Times New Roman', color: '#fff'}}>
-          </p>
+        <div className="portfolio-heading" style={{textAlign: 'center'}}>
+          <h1 style={{marginTop: '40px'}}>Projects</h1>
+          <p style={{fontFamily: 'Times New Roman', color: '#fff'}}></p>
           <div className="portfolio-item" data-aos="fade-right" data-aos-delay="200" style={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
             <div className="portfolio-description" style={{textAlign: 'center'}}>
               <h3 style={{fontWeight: 'bold', color: '#fff', marginBottom: '10px'}}>Desktop Application</h3>
@@ -17,7 +16,7 @@ const Project = () => {
               </p>
             </div>
           </div>
-          <div className="portfolio-item" data-aos="fade-left" data-aos-delay="200">
+          <div className="portfolio-item" data-aos="fade-left" data-aos-delay="200" style={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
             <div className="portfolio-description" style={{textAlign: 'center'}}>
               <h3 style={{fontWeight: 'bold', color: '#fff', marginBottom: '10px'}}>Mobile Application</h3>
               <h2>AUDIBLE Audio Book </h2>
