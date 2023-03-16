@@ -11,7 +11,7 @@ const Footer = () => {
         <ArrowUpwardIcon className='i' />
       </div>
       <p>
-        &copy; 2023 - Saumya Herath | undergraduate - University of Sri Jayewardenepura
+        &copy; 2023 - Saumya Herath | MERN Full Stack - Cross Platform Application
         Developer.
       </p>
     </footer>
