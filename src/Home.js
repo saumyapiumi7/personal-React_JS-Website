@@ -13,7 +13,7 @@ const Home = () => {
     const classes = useStyles();
 
     return(
-        <div className='homestyle' id="section1">
+        <div className='homestyle' id="section1"style={{fontFamily: 'Times New Roman'}}>
             <Particles
                 canvasClassName={classes.particlesCanva}
                 params={{
