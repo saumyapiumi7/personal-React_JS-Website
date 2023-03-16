@@ -1,5 +1,5 @@
 import React from 'react'
-import webDevelop from './Images/covid19.jpg.jpg'
+import webDevelop from './Images/covid19.jpg'
 import Android from './Images/android.png'
 import IOS from './Images/ios.jpg'
 
