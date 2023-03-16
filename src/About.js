@@ -5,55 +5,31 @@ import profPic from './Images/pic.jpg'
 
 const About = () => {
   return (
-    <div className='aboutstyle' id="section2">
-
-      {/* <section className="about"> */}
-
-      <div className="container" data-aos="fade-right">
-
-        <div className="profpic">
-          <img src={profPic} height="400px" />
-
-        </div>
-        <div className="about-heading" >
-          <h1 id='section2'>About</h1>
-        </div>
-
-        <p>
-          Hello! I'm Saumya Herath, a software engineer based in Karachi, Web
-          Developer with 1 years of experience in designing and developing
-          user interfaces, and eCommerce technologies.
-          Proven ability in optimizing web functionality that improve data
-          retrieval and workflow efficiencies using modern frontend. <br />
-          <br /> Currently i am in 1st semester of my bachelors from SMIU
-            University of Pakistan.
+      <div className='aboutstyle' id="section2">
+        <div className="container" data-aos="fade-right">
+          <div className="profpic">
+            <img src={profPic} height="400px" />
+          </div>
+          <div className="about-heading">
+            <h1 id='section2'>About</h1>
+          </div>
+          <p className="about-text">
+            Hello! I'm Saumya Herath, I am a talented and ambitious girl currently studying BSc (Hons) in Information Technology at the University of Sri Jayewardenepura, Colombo. I have a deep passion for coding, and an interest in new designs, and I like to spend my time experiencing lifestyles in new cultures. Moreover, I'm looking for creative and innovative ideas to expand to improve music, travel and skills. and hopes to make a significant impact in the tech world and beyond.
           </p>
-        <br />
-        <p>
-          Here are a few technologies I've been working with recently:
-          <li>JavaScript (ES6+)</li>
-          <li>HTML5 & (S)CSS3</li>
-          <li>ReactJS</li>
-          <li>Bootstrap</li>
-          <li>Wordpress</li>
-          <li>Gatsby</li>
-          
-          
-        </p>
-
-
+          <br />
+          <p>
+            Here are a few technologies I've been working with recently:
+            <li>Python</li>
+            <li>Java</li>
+            <li>ReactJs</li>
+            <li>JavaScript</li>
+            <li>Wordpress</li>
+          </p>
+        </div>
+        <div className="landing-text">
+          <h6></h6>
+        </div>
       </div>
-
-      
-
-      {/* </section> */}
-
-      <div className="landing-text">
-        {/* <img src={logo} alt="aitsam ahad logo" className="logo" /> */}
-        <h6>MERN Full Stack | React Native Developer</h6>
-      </div>
-
-    </div>
   )
 }
 export default About;
