@@ -9,17 +9,16 @@ const Project = () => {
         <div className="portfolio-heading">
           <h1 style={{marginTop: '30px'}}>Projects</h1>
           <p style={{textAlign: 'justify', fontFamily: 'Times New Roman'}}>
-            Here are some examples of the projects I have worked on recently.
           </p>
           <div
               className="portfolio-item"
               data-aos="fade-left"
               data-aos-delay="200"
           >
-            <div className="portfolio-img has-margin-right">
+            <div className="portfolio-img has-margin-right" style={{float: 'right'}}>
               <img src={webDevelop} height='250px' alt="" />
             </div>
-            <div className="portfolio-description">
+            <div className="portfolio-description" style={{float: 'left'}}>
               <h6>Desktop Application</h6>
               <h2>Covid - 19 Vaccines Management System</h2>
               <p>
@@ -35,7 +34,7 @@ const Project = () => {
               data-aos="fade-right"
               data-aos-delay="300"
           >
-            <div className="portfolio-description has-margin-right" style={{marginLeft: 20}}>
+            <div className="portfolio-description has-margin-right" style={{float: 'left'}}>
               <h6>Mobile Application</h6>
               <h2>AUDIBLE Audio Book </h2>
               <p>
@@ -45,8 +44,8 @@ const Project = () => {
               </p>
 
             </div>
-            <div className="portfolio-img">
-              <img  />
+            <div className="portfolio-img" style={{float: 'right'}}>
+              <img src={Android} height='250px' alt="" />
             </div>
           </div>
           <div
@@ -54,10 +53,10 @@ const Project = () => {
               data-aos="fade-left"
               data-aos-delay="400"
           >
-            <div className="portfolio-img has-margin-right">
-              <img  />
+            <div className="portfolio-img has-margin-right" style={{float: 'right'}}>
+              <img src={IOS} height='250px' alt="" />
             </div>
-            <div className="portfolio-description">
+            <div className="portfolio-description" style={{float: 'left'}}>
               <h6></h6>
               <h2></h2>
               <p>
