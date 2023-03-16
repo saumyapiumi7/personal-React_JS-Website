@@ -22,11 +22,5 @@ function App() {
     </div>
   );
 }
-if (window.innerWidth <= 600) {
-    // code for mobile devices goes here
-} else {
-    // code for larger screens goes here
-}
-
 
 export default App;

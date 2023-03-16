@@ -35,13 +35,3 @@
     display: flex;
     background-color: rgb(205, 251, 0);
 } */
-
-/* styles for mobile devices */
-@media only screen and (max-width: 600px) {
-    /* code for mobile devices goes here */
-}
-
-/* styles for larger screens */
-@media only screen and (min-width: 601px) {
-    /* code for larger screens goes here */
-}
