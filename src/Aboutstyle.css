@@ -20,6 +20,11 @@
     display: flex;
     background-color: rgb(76, 88, 22);
 }
+
+.about-heading {
+  margin-top: -20px;
+}
+
 .portfoliostyle{
     width: 100%;
     height: 600px;

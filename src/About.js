@@ -10,7 +10,7 @@ const About = () => {
             <img src={profPic} height='100%' />
           </div>
           <div className='about-heading'>
-            <h1 id='section2' style={{ top: '10%' }}>
+            <h1 id='section2' style={{ top: '20%' }}>
               About
             </h1 >
           </div>
