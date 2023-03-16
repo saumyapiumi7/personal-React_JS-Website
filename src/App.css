@@ -39,7 +39,7 @@ li {
     
 }
 .portfoliostyle {
-    max-height: 1200px; /* adjust this value to your desired section length */
+    max-height: 900px; /* adjust this value to your desired section length */
     overflow: auto;
 }
 

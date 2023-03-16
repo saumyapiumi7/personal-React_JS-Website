@@ -13,7 +13,7 @@ const Project = () => {
               data-aos="fade-left"
               data-aos-delay="200"
           >
-            <div className="portfolio-img has-margin-right">
+            <div className="portfolio-img has-margin-right"style={{marginLeft: 20}} >
               <img src={webDevelop} height='250px' alt="" />
             </div>
             <div className="portfolio-description">
