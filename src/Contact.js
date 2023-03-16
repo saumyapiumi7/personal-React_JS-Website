@@ -21,7 +21,7 @@ const Contact = () => {
 
                     </div>
                     <div className="contact-details">
-                        <h2 style={{color: 'white',fontWeight: 'bold'}}>Contact Details</h2>
+                        <h2 style={{color: 'white'}}>Contact Details</h2>
                         <p style={{color: 'white'}} >Email: saumyapiumi7@gmail.com</p>
                         <p style={{color: 'white'}} >Phone: +94 70 311 3226</p>
                         <p style={{color: 'white'}} >Address: 437/1, Kohanegama, Malagane, Wariyapola, Sri Lanka</p>
