@@ -13,7 +13,7 @@ const Home = () => {
     const classes = useStyles();
 
     return(
-        <div className='homestyle' id="section1">
+        <div className='homestyle' id="section1" style={{fontFamily: 'Times New Roman'}}>
             <Particles
                 canvasClassName={classes.particlesCanva}
                 params={{
@@ -44,8 +44,8 @@ const Home = () => {
                     }
                 }}
             />
-            <h2 style={{position: 'absolute', top: '40%', left: '50%', transform: 'translate(-50%, -50%)', color: '#fff', fontStyle: 'italic'}}>Hi, I'm</h2>
-            <h1 style={{position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', color: '#fff'}}>Saumya Herath</h1>
+            <h2 style={{position: 'absolute', top: '35%', left: '50%', transform: 'translate(-50%, -50%)', color: '#fff', fontStyle: 'italic', fontSize: '15px', fontWeight: 'bold'}}>Hi, I'm</h2>
+            <h1 style={{position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', color: '#fff', fontSize: '20px', fontWeight: 'bold'}}>Saumya Herath</h1>
         </div>
     );
 };
