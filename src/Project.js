@@ -47,20 +47,9 @@ const Project = () => {
             </div>
           </div>
           <div
-              className="portfolio-item"
-              data-aos="fade-left"
-              data-aos-delay="400"
+
           >
-            <div className="portfolio-img has-margin-right">
-            </div>
-            <div className="portfolio-description">
-              <h6></h6>
-              <h2></h2>
-              <p>
 
-              </p>
-
-            </div>
           </div>
         </div>
       </section>
