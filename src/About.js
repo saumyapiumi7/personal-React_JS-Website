@@ -20,7 +20,7 @@ const About = () => {
         </div>
 
         <p>
-          Hello! I'm Shahzaib, a software engineer based in Karachi, Web
+          Hello! I'm Saumya Herath, a software engineer based in Karachi, Web
           Developer with 1 years of experience in designing and developing
           user interfaces, and eCommerce technologies.
           Proven ability in optimizing web functionality that improve data
