@@ -16,10 +16,10 @@ const Project = () => {
               data-aos-delay="200"
           >
             <div className="portfolio-img has-margin-right" style={{float: 'right'}}>
-              <img src={webDevelop} height='250px' alt="" />
+              <img src={webDevelop} style={{marginRight: '30px'}} height='250px' alt="" />
             </div>
             <div className="portfolio-description" style={{float: 'left'}}>
-              <h3 style={{fontWeight: 'bold', marginBottom: '10px'}}>Desktop Application</h3>
+              <h3 style={{fontWeight: 'bold',color: '#fff', marginBottom: '10px'}}>Desktop Application</h3>
               <h2>Covid-19 Vaccines Management System</h2>
               <p>
                 A desktop application was created using Python to collect essential details related to getting the COVID-19 vaccine.
@@ -35,7 +35,7 @@ const Project = () => {
               data-aos-delay="300"
           >
             <div className="portfolio-description has-margin-right" style={{float: 'left', marginRight: '1cm'}}>
-              <h3 style={{fontWeight: 'bold', marginBottom: '10px'}}>Mobile Application</h3>
+              <h3 style={{fontWeight: 'bold', color: '#fff', marginBottom: '10px'}}>Mobile Application</h3>
               <h2>AUDIBLE Audio Book </h2>
               <p>
                 The audiobook mobile application is a revolutionary tool designed specifically for visually impaired individuals who face challenges when it comes to reading books.
@@ -44,27 +44,9 @@ const Project = () => {
               </p>
 
             </div>
-            <div className="portfolio-img" style={{float: 'right'}}>
-              <img src={Android} height='250px' alt="" />
-            </div>
-          </div>
-          <div
-              className="portfolio-item"
-              data-aos="fade-left"
-              data-aos-delay="400"
-          >
-            <div className="portfolio-img has-margin-right" style={{float: 'right'}}>
-              <img />
-            </div>
-            <div className="portfolio-description" style={{float: 'left'}}>
-              <h3 style={{fontWeight: 'bold', marginBottom: '10px'}}></h3>
-              <h2></h2>
-              <p>
 
-              </p>
-
-            </div>
           </div>
+
         </div>
       </section>
   )
