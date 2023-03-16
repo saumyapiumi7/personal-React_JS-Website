@@ -18,7 +18,7 @@ const Project = () => {
             </div>
             <div className="portfolio-description">
               <h6 style={{fontStyle: 'italic', fontSize: '25px', fontWeight: 'bold'}} >Desktop Application</h6>
-              <h2 style={{fontWeight: 'bold'}} >Covid - 19 Vaccines Management System</h2>
+              <h2 style={{fontWeight: 'bold',fontSize: '30px'}} >Covid - 19 Vaccines Management System</h2>
               <p>
                 A desktop application was created using Python to collect essential details related to getting the COVID-19 vaccine.
 
@@ -34,7 +34,7 @@ const Project = () => {
           >
             <div className="portfolio-description has-margin-right" style={{marginLeft: 20}}>
               <h6 style={{fontStyle: 'italic', fontSize: '25px', fontWeight: 'bold'}} >Mobile Application</h6>
-              <h2 style={{fontWeight: 'bold'}} >AUDIBLE Audio Book </h2>
+              <h2 style={{fontWeight: 'bold',fontSize: '30px'}} >AUDIBLE Audio Book </h2>
               <p>
                 The audiobook mobile application is a revolutionary tool designed specifically for visually impaired individuals who face challenges when it comes to reading books.
 
