@@ -17,8 +17,7 @@ const Home = ()=>{
     
     return(
         <div className='homestyle' id="section1">
-           
-                
+            <h1>Hello, I'm Saumya Herath</h1>
             <>
             <Particles 
             canvasClassName={classes.particlesCanva}
