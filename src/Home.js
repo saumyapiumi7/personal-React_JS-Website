@@ -45,7 +45,7 @@ const Home = () => {
                 }}
             />
             <h2 style={{position: 'absolute', top: '35%', left: '50%', transform: 'translate(-50%, -50%)', color: '#fff', fontStyle: 'italic', fontSize: '50px', fontWeight: 'bold'}}>Hi.. I'm</h2>
-            <h1 style={{position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', color: '#fff', fontSize: '80px', fontWeight: 'bold'}}>Saumya Herath</h1>
+            <h1 style={{position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', color: '#fff', fontSize: '75px', fontWeight: 'bold'}}>Saumya Herath</h1>
         </div>
     );
 };
